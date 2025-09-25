@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+}
+
+input[type="text"], a{
+    color: rgb(0, 0, 0);
+    transition: color 200ms;
+    text-align: center;
+}
+
+a:hover{
+  color: rgb(255, 255, 255); 
+}
