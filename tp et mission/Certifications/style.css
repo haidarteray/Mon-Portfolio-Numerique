@@ -1,0 +1,37 @@
+body{
+    
+    background-image: url("fond.png");   
+    background-position: center;         
+    background-size: cover;               
+    background-color: rgb(47, 99, 144);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin: 60px;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div a{
+    display: inline-table;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(134, 28, 254);
+    margin-top: 5px;
+    padding: 12px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+input[type="text"], a{
+    color: #ffffff;
+    transition: color 200ms;
+    text-align: center;
+}
+
+a:hover{
+  color: rgb(243, 28, 254); 
+}
+
+
+
+
